@@ -1,5 +1,20 @@
 # Computer Networks
 ## Online Shopping System
+### Step-By-Step Guide :
+- Create a folder on your system to contain all project files.
+- Run the following command to start the server
+- **_python server.py_** --> This will **start both the TCP/SSL** and UDP servers. You should see messages indicating that the servers are listening for connections.
+- Open Another Terminal/Command Prompt:
+Run the following command to start the client
+**_python client.py_**
+- **Authenticate**:
+Enter the username and password when prompted.
+Valid credentials here are as follows:
+ - Username: root, Password: root or 
+ Username: root1, Password: root1
+- Interact with the System and Enjoy !!!
+- Follow this video to generate a self signed SSL certificate using OpenSSL : https://www.youtube.com/watch?v=c-LEHJy5g8Y
+--------------------
 - The ***online shopping system*** is a **network-based application** designed to facilitate secure and efficient e-commerce transactions. 
 - Allowing **users to browse items, make purchases, and receive receipts through a combination of TCP/SSL and UDP protocols** which ensures secure communication. 
 - It **provides a lightweight UDP-based mechanism for user interactions** such as browsing and purchasing items.
