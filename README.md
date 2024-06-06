@@ -1,12 +1,11 @@
 # Computer Networks
 ## Online Shopping System
 ### Step-By-Step Guide :
-- Create a folder on your system to contain all project files.
+- Use ```git clone https://github.com/Git-Cat-21/Computer-Networks.git``` to make a copy of the project on your system
 - Run the following command to start the server
-- **_python server.py_** : This will **start both the TCP/SSL** and UDP servers. You should see messages indicating that the servers are listening for connections.
+- ```python server.py``` : This will **start both the TCP/SSL** and UDP servers. You should see messages indicating that the servers are listening for connections.
 - Open Another Terminal/Command Prompt:
-Run the following command to start the client
-**_python client.py_**
+Run the following command to start the client ```python client.py```
 - **Authenticate**:
 Enter the username and password when prompted.
 Valid credentials here are as follows:
