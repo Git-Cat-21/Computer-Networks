@@ -3,7 +3,7 @@
 ### Step-By-Step Guide :
 - Create a folder on your system to contain all project files.
 - Run the following command to start the server
-- **_python server.py_** --> This will **start both the TCP/SSL** and UDP servers. You should see messages indicating that the servers are listening for connections.
+- **_python server.py_** : This will **start both the TCP/SSL** and UDP servers. You should see messages indicating that the servers are listening for connections.
 - Open Another Terminal/Command Prompt:
 Run the following command to start the client
 **_python client.py_**
